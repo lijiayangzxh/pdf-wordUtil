@@ -1,0 +1,6 @@
+spring:
+  port:8080
+  datasource:
+    url: jdbc:mysql://rm-bp1erwij3a1p5c87beo.mysql.rds.aliyuncs.com/siwei_base_test?useSSL=false&useUnicode=true&characterEncoding=utf8&useAffectedRows=true&allowMultiQueries=true&serverTimezone=GMT%2B8
+    username: siwei_base
+    password: New_Astack
